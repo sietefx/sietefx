@@ -1,3 +1,10 @@
+Tecnologias utilizadas:
+
+Swift;
+Python;
+HTML5;
+CSS3.
+
 ## Aloha! 👋
 
 Profissional com 26 anos de atuação estratégica na convergência entre branding, marketing e gestão empresarial.
