@@ -17,3 +17,5 @@ Sempre em busca de oportunidades para contribuir com empresas inovadoras, que va
   >>> Atualmente estou fazendo ADS para entrar em uma nova carreira.
   >>> Estudando linguagem python e switf, além de programação básica.
   >>> Aprimoramento em Python, Swift e Figma para a criação de visuais e desenvolvimento de aplicativos.
+
+Portfolio em desgin gráfico: http://behance.net/sietefx
