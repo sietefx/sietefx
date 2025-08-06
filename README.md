@@ -8,6 +8,13 @@ Python;
 HTML5;
 CSS3.
 
+Ferramentas utilizadas:
+
+Adobe CC;
+Figma;
+Xcode;
+VS Code.
+
 ## Aloha! 👋
 
 Profissional com 26 anos de atuação estratégica na convergência entre branding, marketing e gestão empresarial.
