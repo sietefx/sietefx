@@ -11,6 +11,7 @@ CSS3.
 Ferramentas utilizadas:
 
 Adobe CC;
+Affinity;
 Figma;
 Xcode;
 VS Code.
